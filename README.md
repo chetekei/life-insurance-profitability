@@ -9,4 +9,4 @@ Computing the financial implications associated with starting a life insurance b
 5. Agents will be paid commission of 40% for the first year, 20% in the second year and 5% onwards till maturity.
 
 ## Aim Of This Project.
-- To compute the total cash in flows in premiums and outflow in commission for the first 10 years.
+- To compute the total cash in flow in premiums and out flow in commission for the first 10 years.
