@@ -1,5 +1,5 @@
 ## Life insurance Profitability
-Computing the financial implications associated with opening life insurance business.
+Computing the financial implications associated with starting a life insurance business.
 
 ### Model Logic
 1. The business will have 10 unit managers who will have 5 agents each.<br>
