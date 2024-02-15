@@ -194,12 +194,12 @@ with tab1:
 
 with tab2:   
 
-    st.table(investment)
+    st.dataframe(investment)
 
 
     
 with tab3:
     df3 = pd.DataFrame(finaldf)
-    st.table(df3)
+    st.dataframe(df3)
 
     
